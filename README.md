@@ -38,4 +38,4 @@ OPENAI_API_KEY="sk-..." RUN_DEMO=1 python3 api_test.py
 安全提示
 
 - 永远不要把真实的 API key 提交到 Git 仓库。使用环境变量或 CI secret 管理密钥。
-- 推荐在本地使用 `.env` 文件并配合 gitignore 把它排除在版本控制之外。
+- 推荐在本地使用 `.env` 文件并配合 gitignore 把它排除在版本控制之外。# agent_learn
