@@ -13,7 +13,7 @@
 - ```judge_smi```与```smi_to_graph```
     这是两个功能性的函数，这两个函数调用了rdkit，产出期望的输出，并未调用llm
 - ```guess_info_from_wrong_smi```
-    这是一个专门用于调用与定义llm的函数，目前实现了在这个函数中写入简单的prompt，还并为增添其他逻辑信息
+    这是一个专门用于调用与定义llm的函数，目前实现了在这个函数中写入简单的prompt，还并未增添其他逻辑信息
 - ```search_smi```与```draw```
     这是两个节点函数，在节点函数内实现通过逻辑调用以上三个函数
 - ```create_search_assistant```
