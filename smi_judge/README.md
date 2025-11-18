@@ -26,6 +26,6 @@ DEEPSEEK_API_KEY="YOUR_API_KEY" python smi.py
 ```
 
 ## 环境
-rdkit
-tpying
-langgraph
+- rdkit
+- tpying
+- langgraph
